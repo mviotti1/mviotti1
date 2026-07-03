@@ -53,8 +53,21 @@ I've been learning about tech every day since I was 14, starting out self-taught
 ### 🔧 Featured Projects
 
 **🤖 AI Chatbot + CRM for a Real Business**
+
 Designed and implemented an end-to-end automation solution integrating AI into a business's daily operations. Built a WhatsApp chatbot (official API) to schedule classes and answer inquiries automatically, integrated a CRM, built automation workflows in n8n, and deployed the full infrastructure to production on a Linux VPS.
 `WhatsApp API` · `n8n` · `CRM` · `Linux VPS` · `Automation`
+
+<p align="center">
+  <img src="./portada.png" alt="AI Chatbot + CRM project cover" width="100%"/>
+</p>
+<p align="center">
+  <a href="URL_DEL_REPO">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+  </a>
+  <a href="URL_DEL_VIDEO">
+    <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"/>
+  </a>
+</p>
 
 **⚙️ Simplified Operating System**
 Team project (6 people) written in C, implementing a simplified OS with a distributed architecture: independent modules communicating over TCP/IP sockets. Hands-on work with concurrency, process synchronization, semaphores, deadlock handling and scheduling.
