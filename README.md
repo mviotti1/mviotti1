@@ -2,19 +2,16 @@
   <img src="./banner.png" alt="Mateo Viotti — Information Systems Engineering Student @ UTN" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Mateo Viotti 👋</h1>
+<h1 align="center">Hi, I'm Mateo Viotti</h1>
 
 <p align="center">
-  <b>Information Systems Engineering Student @ UTN</b> · Buenos Aires, Argentina 🇦🇷<br>
+  <b>Information Systems Engineering Student - UTN</b> · Buenos Aires, Argentina 🇦🇷<br>
   Building <b>AI agents</b> and <b>automation</b> for real-world use cases.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-viotti-461248339/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mateo.viotti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -63,18 +60,13 @@ Designed and implemented an end-to-end automation solution integrating AI into a
 Team project (6 people) written in C, implementing a simplified OS with a distributed architecture: independent modules communicating over TCP/IP sockets. Hands-on work with concurrency, process synchronization, semaphores, deadlock handling and scheduling.
 `C` · `Concurrency` · `Distributed Systems` · `Sockets`
 
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](URL_DEL_REPO)
+
 **🔤 Lexical & Syntactic Analyzer (Scanner + Parser)**
 Team project in C implementing the first stages of a language translator — the scanner (lexical analysis) and parser (syntactic analysis) — to understand how a compiler processes source code, from raw characters to grammar validation.
 `C` · `Compilers` · `Automata` · `Formal Languages`
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mviotti1&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mviotti1&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](URL_DEL_REPO)
 
 ---
 
