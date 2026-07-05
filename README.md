@@ -69,13 +69,13 @@ Designed and implemented an end-to-end automation solution integrating AI into a
 Team project (6 people) written in C, implementing a simplified OS with a distributed architecture: independent modules communicating over TCP/IP sockets. Hands-on work with concurrency, process synchronization, semaphores, deadlock handling and scheduling.
 `C` · `Concurrency` · `Distributed Systems` · `Sockets`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](URL_DEL_REPO)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mviotti1/sistema-operativo-simplificado)
 
 **🔤 Lexical & Syntactic Analyzer (Scanner + Parser)**
 Team project in C implementing the first stages of a language translator — the scanner (lexical analysis) and parser (syntactic analysis) — to understand how a compiler processes source code, from raw characters to grammar validation.
 `C` · `Compilers` · `Automata` · `Formal Languages`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](URL_DEL_REPO)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mviotti1/sintaxis-y-semantica-de-los-lenguajes)
 
 ---
 
