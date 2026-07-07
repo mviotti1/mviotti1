@@ -57,7 +57,7 @@ Designed and implemented an end-to-end automation solution integrating AI into a
   <img src="./portada.png" alt="AI Chatbot + CRM project cover" width="100%"/>
 </p>
 <p align="center">
-  <a href="URL_DEL_REPO">
+  <a href="https://github.com/mviotti1/sistema_educare.git">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
   </a>
   <a href="URL_DEL_VIDEO">
